@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khaled shehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaled shehab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khaled shehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled shehab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-shehab-32168920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-shehab-32168920b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/khaled shehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khaled shehab" height="30" width="40" /></a>
 <a href="https://fb.com/khaled shehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled shehab" height="30" width="40" /></a>
 <a href="https://instagram.com/khaledshehab44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaledshehab44" height="30" width="40" /></a>
